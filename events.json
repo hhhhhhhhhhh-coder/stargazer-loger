@@ -1,0 +1,20 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free with interactive lessons and projects.",
+    "starred_at": "2026-08-14"
+  },
+  {
+    "name": "The Algorithms",
+    "url": "https://github.com/TheAlgorithms",
+    "description": "Open-source implementations of algorithms in many programming languages.",
+    "starred_at": "2026-07-02"
+  },
+  {
+    "name": "public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for development.",
+    "starred_at": "2026-05-19"
+  }
+]
